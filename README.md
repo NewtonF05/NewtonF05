@@ -1,6 +1,6 @@
 # Newton Fernihough
 
-Physics graduate from the **University of Bristol** with hands-on machine learning, scientific computing, and astrophysical data analysis experience. Looking for graduate roles in **AI/ML, software engineering, aerospace, or other technical and analytical work**.
+Physics graduate from the University of Bristol with hands-on machine learning, scientific computing, and astrophysical data analysis experience. Looking for graduate roles in AI/ML, software engineering, aerospace, or other technical and analytical work.
 
 📍 Bristol, UK &nbsp;·&nbsp; ✉️ [newton.fernihough@gmail.com](mailto:newton.fernihough@gmail.com) &nbsp;·&nbsp; 🔗 [LinkedIn](https://linkedin.com/in/newton-fernihough-2338a3268)
 
